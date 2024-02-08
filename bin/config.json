@@ -3,7 +3,5 @@
   "button_text": "Start Google",
   "window_title": "Launcher",
   "window_width": 800,
-  "window_height": 200,
-  "button_width": 150,
-  "button_height": 60
+  "window_height": 200
 }
